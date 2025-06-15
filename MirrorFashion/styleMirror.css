@@ -2,6 +2,7 @@
 #suprema {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
     width: 690px;
 }
