@@ -20,14 +20,21 @@ hr {
 .Imagem_Centro_Distribuição {
     background: rgb(214, 211, 211);
     text-align: center;
+    padding: 8px;
+    max-width: 80%;
+    margin: 20px auto;
 }
 
 .Imagem_Familia {
     background: rgb(214, 211, 211);
     text-align: center;
+    padding: 8px;
+    max-width: 50%;
+    margin: 10px auto;
 }
 
 .Texto3 {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
