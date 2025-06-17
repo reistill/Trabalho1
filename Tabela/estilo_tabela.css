@@ -39,13 +39,12 @@ body {
   gap: 8px;
 }
 
-/* Escudos */
 .escudo {
   width: 20px;
   height: 20px;
 }
 
-/* Cores por zona */
+/* Cores por zonas*/
 .top4 {
   background-color: #bdf0bd;
 }
